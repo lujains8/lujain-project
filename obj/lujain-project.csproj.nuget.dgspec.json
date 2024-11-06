@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj": {}
+    "C:\\Users\\taifa\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj": {
+    "C:\\Users\\taifa\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj",
+        "projectUniqueName": "C:\\Users\\taifa\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj",
         "projectName": "lujain-project",
-        "projectPath": "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj",
-        "packagesPath": "C:\\Users\\Lulai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\lujain-project\\obj\\",
+        "projectPath": "C:\\Users\\taifa\\OneDrive\\المستندات\\GitHub\\lujain-project\\lujain-project.csproj",
+        "packagesPath": "C:\\Users\\taifa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taifa\\OneDrive\\المستندات\\GitHub\\lujain-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lulai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\taifa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

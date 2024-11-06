@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lujain-project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fceb0de7233ba6e5d11eeced8f8d484e6e975d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaa9e33ccd04abadb20aa13e2136cae58d2b2e0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("lujain-project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lujain-project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
